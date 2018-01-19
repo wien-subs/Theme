@@ -5,6 +5,10 @@
 
 ---------------------------------------
 
+|| <!-- empty table header -->
+|:--:| <!-- table header/body separator with center formatting -->
+| # F.A.Q. | <!-- cell gets column's alignment -->
+
 Q:De ce nu găsesc codul sursă al temei aici?
 
 A:Codul sursă este sublicentă privată, nu îl vom distriburi prea curând.
