@@ -5,9 +5,8 @@
 
 ---------------------------------------
 
-|| <!-- empty table header -->
-|:--:| <!-- table header/body separator with center formatting -->
-| # F.A.Q. | <!-- cell gets column's alignment -->
+
+# F.A.Q.
 
 Q:De ce nu găsesc codul sursă al temei aici?
 
